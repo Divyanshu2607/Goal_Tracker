@@ -22,7 +22,7 @@
 Clone the repo:
 
 ```
-git clone https://github.com/shivam1317/awesome-goal-tracker.git
+git clone https://github.com/Divyanshu2607/Goal_Tracker.git
 ```
 
 Change the folder and do `npm i`
