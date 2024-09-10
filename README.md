@@ -28,7 +28,7 @@ git clone https://github.com/Divyanshu2607/Goal_Tracker.git
 Change the folder and do `npm i`
 
 ```bash
-cd awesome-goal-tracker
+cd Goal_Tracker
 npm i
 ```
 
